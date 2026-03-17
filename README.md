@@ -46,9 +46,9 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-
-### Name:
-### Register Number:
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.2/blob/main/WhatsApp%20Image%202026-03-15%20at%208.33.47%20PM.jpeg?raw=true)
+### Name:VAISHNAVI.D
+### Register Number:21224220118
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
