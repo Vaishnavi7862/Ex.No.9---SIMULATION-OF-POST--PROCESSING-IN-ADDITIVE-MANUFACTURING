@@ -53,7 +53,7 @@ UV CURVING
 HEAT TREATMENT
 <img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/cc166aa2-8aba-4b59-8b4d-2d5857f0daee" />
 
-![image](https://github.com/25014905/EMPD-EXP-NO.-6.2/blob/main/WhatsApp%20Image%202026-03-15%20at%208.33.47%20PM.jpeg?raw=true)
+
 ### Name:VAISHNAVI.D
 ### Register Number:21224220118
 
